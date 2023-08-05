@@ -18,3 +18,16 @@ console.log(altura, typeof altura)
 console.log(nome, typeof nome) 
 
 console.log(estudando, typeof estudando) 
+
+let outra;
+
+console.log(outra)
+
+let nula = null;
+
+console.log(nula)
+
+var variavel = 30;      //não utilize o var
+
+const constante = 100;
+
